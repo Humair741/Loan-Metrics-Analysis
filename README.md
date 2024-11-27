@@ -14,10 +14,10 @@ Average Debt-to-Income Ratio (DTI): Measure borrowers' financial resilience.
 The Summary Dashboard provides a comprehensive snapshot of loan performance metrics.
 
 Key Metrics & Insights:
-## Total Loan Applications, Funded Amounts, Received Amounts
-## Average Interest Rate and Debt-to-Income (DTI) Ratio
-## Good vs. Bad Loan Breakdown and Segmentation
-## Loan Status Tracking
+* Total Loan Applications, Funded Amounts, Received Amounts
+* Total Loan Applications, Funded Amounts, Received Amounts Average Interest Rate and Debt-to-Income (DTI) Ratio
+* Total Loan Applications, Funded Amounts, Received Amounts Good vs. Bad Loan Breakdown and Segmentation
+* Total Loan Applications, Funded Amounts, Received Amounts Loan Status Tracking
 
 # Overview Dashboard
 
@@ -26,7 +26,7 @@ The Overview Dashboard dives deeper into trends, demographics, and regional anal
 Trend Analysis: Tracks loan applications by month
 Geographic Insights: Loan applications by state
 Demographic Analysis:
-## Loan applications categorized by employee length
-## Loan purposes, such as debt consolidation, credit cards, home improvement, etc.
-## Applications by homeownership status (Rent vs. Mortgage)
+* Total Loan Applications, Funded Amounts, Received Amounts Loan applications categorized by employee length
+* Total Loan Applications, Funded Amounts, Received Amounts Loan purposes, such as debt consolidation, credit cards, home improvement, etc.
+* Total Loan Applications, Funded Amounts, Received Amounts Applications by homeownership status (Rent vs. Mortgage)
 Interactive Filters: State, Grade, and Good vs. Bad Loan segmentation
