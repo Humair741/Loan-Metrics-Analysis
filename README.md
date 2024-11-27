@@ -19,6 +19,9 @@ Key Metrics & Insights:
 * Total Loan Applications, Funded Amounts, Received Amounts Good vs. Bad Loan Breakdown and Segmentation
 * Total Loan Applications, Funded Amounts, Received Amounts Loan Status Tracking
 
+![summary](https://github.com/user-attachments/assets/eac08a78-b61c-403b-9690-ae82678e412e)
+
+
 # Overview Dashboard
 
 The Overview Dashboard dives deeper into trends, demographics, and regional analysis.
@@ -30,3 +33,6 @@ Demographic Analysis:
 * Total Loan Applications, Funded Amounts, Received Amounts Loan purposes, such as debt consolidation, credit cards, home improvement, etc.
 * Total Loan Applications, Funded Amounts, Received Amounts Applications by homeownership status (Rent vs. Mortgage)
 Interactive Filters: State, Grade, and Good vs. Bad Loan segmentation
+
+![overview](https://github.com/user-attachments/assets/f0649e36-7da3-4c7b-8a2e-fb350aeecda8)
+
